@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1500128372 source:e:\codeblocks\inheritance\main.cpp
+	<iostream>
+	"A.h"
+	"B.h"
+
+1500128496 e:\codeblocks\inheritance\include\a.h
+
+1500128260 e:\codeblocks\inheritance\include\b.h
+	<A.h>
+
