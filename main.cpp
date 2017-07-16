@@ -6,9 +6,12 @@ using namespace std;
 
 int main()
 {
-   B b;
+   B b,c;
    b.mul();
    b.display();
+
+   c.mul();
+   c.display();
 
     return 0;
 }
